@@ -1,0 +1,17 @@
+{
+  "completeUserData": [
+    {
+      "id":"101",
+      "name": "nehapotdar",
+      "phone": "575899598",
+      "email": "neha@yahoo.com",
+      "password":"neha@123"
+    },
+    {  "id":"102",
+      "name": "mansipawar",
+      "phone": "9055658905",
+      "email": "mansi@gmail.com",
+      "password": "mansi@123"
+    }
+  ]
+}
